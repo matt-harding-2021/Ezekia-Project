@@ -140,8 +140,8 @@ export default {
                 width: 100%;
                 height: 100%;
                 background:
-                    linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 50%),
-                    linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0) 50%);
+                    linear-gradient(90deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 50%),
+                    linear-gradient(0deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 50%);
             }
             &__title {
                 position: absolute;
